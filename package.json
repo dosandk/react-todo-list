@@ -1,0 +1,15 @@
+{
+  "name": "smart-todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Vladimir Shevchuk <dosandkv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
